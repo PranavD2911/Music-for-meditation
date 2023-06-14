@@ -1,6 +1,8 @@
-# Songs Player App
+# Music for Meditation App
 
 A new Flutter project which can play songs but only hardcoded one.
+
+*You can change songs and image in assests and then in Item List in dart file. Dont change the item list.
 
 ## Getting Started
 
