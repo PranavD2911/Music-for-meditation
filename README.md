@@ -1,4 +1,4 @@
-# Music for Meditation App
+# Music for Meditation Application(APP)
 
 A new Flutter project which can play songs but only hardcoded one.
 
